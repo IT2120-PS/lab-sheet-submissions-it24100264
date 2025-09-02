@@ -1,4 +1,4 @@
-setwd("C:\\Users\\it24100248\\Desktop\\Lab 6")
+setwd("C:\\Users\\it24100264\\Desktop\\Lab 6")
 getwd()
 
 #1)
@@ -11,3 +11,4 @@ getwd()
 #ii. Possion distribution.
 #iii. 
 dpois(15,12)
+

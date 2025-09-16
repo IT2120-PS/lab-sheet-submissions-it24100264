@@ -1,4 +1,4 @@
-setwd("C:\\Users\\User\\Desktop\\IT24100163")
+setwd("C:\\Users\\User\\Desktop\\IT24100264")
 
 ##Question 01
 
@@ -23,6 +23,7 @@ p
 ##(ii)
 q <- qnorm(0.95, mean = 100, sd = 15)
 q
+
 
 
 

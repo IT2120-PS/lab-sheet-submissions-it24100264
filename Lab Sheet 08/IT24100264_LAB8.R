@@ -1,4 +1,4 @@
-setwd("C:/Users/it24100163/Desktop/IT24100163_LAB8")
+setwd("C:/Users/it24100163/Desktop/IT24100264_LAB8")
 
 ## Importing the data set
 lap <- read.table("Exercise - LaptopsWeights.txt", header=TRUE)
